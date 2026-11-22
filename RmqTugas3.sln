@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tasker", "Tasker\Tasker.csproj", "{F80B1865-70EA-46CC-8FE5-75DFB9CD5061}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Worker-cmd", "Worker-cmd\Worker-cmd.csproj", "{87D67DCC-D137-46FD-B488-90EA8FCA87D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Broadcaster", "Broadcaster\Broadcaster.csproj", "{2720CC7B-C37A-465B-B537-1E26DB37C651}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Receiver", "Receiver\Receiver.csproj", "{EE7648B2-D803-4777-8397-AEA43C8CD6AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F80B1865-70EA-46CC-8FE5-75DFB9CD5061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F80B1865-70EA-46CC-8FE5-75DFB9CD5061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F80B1865-70EA-46CC-8FE5-75DFB9CD5061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F80B1865-70EA-46CC-8FE5-75DFB9CD5061}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87D67DCC-D137-46FD-B488-90EA8FCA87D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87D67DCC-D137-46FD-B488-90EA8FCA87D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87D67DCC-D137-46FD-B488-90EA8FCA87D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87D67DCC-D137-46FD-B488-90EA8FCA87D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2720CC7B-C37A-465B-B537-1E26DB37C651}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2720CC7B-C37A-465B-B537-1E26DB37C651}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2720CC7B-C37A-465B-B537-1E26DB37C651}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2720CC7B-C37A-465B-B537-1E26DB37C651}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE7648B2-D803-4777-8397-AEA43C8CD6AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE7648B2-D803-4777-8397-AEA43C8CD6AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE7648B2-D803-4777-8397-AEA43C8CD6AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE7648B2-D803-4777-8397-AEA43C8CD6AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
